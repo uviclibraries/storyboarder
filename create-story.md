@@ -26,3 +26,5 @@ parent: Workshop Activities
         }
     }
 </script>
+
+[NEXT STEP: Shot Generator](shot-generator.html){: .btn .btn-blue }<br>
