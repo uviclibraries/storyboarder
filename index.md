@@ -4,9 +4,9 @@ title: Introduction
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
+<img src="images/storyboarder-logo.png" style="float:right;width:180px;" alt="Storyboarder logo">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Storyboarder
 
 - Pre-workshop activities: 00 min 
 - Introductory presentation: 00 min
